@@ -6,10 +6,10 @@
 - 플레이어가 구체적인 실험을 통해 목표를 달하게 하는 것
 
 ## 🧠 사용 기술
-- Unity Hup
-- C#
-- ClipStudio
-- ibis paint X
+- Unity Hup (개발)
+- C# (개발)
+- ClipStudio (디자인)
+- ibis paint X (디자인)
 
 ## ⚙ 구현 내용
 - 게임은 총 30일동안 진행
