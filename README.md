@@ -17,8 +17,7 @@
 - 게임이 끝나고 성과에 따라 4가지의 엔딩 중 하나가 출력됨
 
 ## 📷 실행 화면
-![Uploading image.png…]()
-
+<img width="408" height="211" alt="스크린샷 2025-12-19 105554" src="https://github.com/user-attachments/assets/4b84e58c-64fb-44f4-a20e-66a8ffa0d173" />
 
 ## ✍ 느낀 점
 많은 디자인을 그리면서 뿌듯함이 느껴지며 많은 성과를 이루어져서 좋은거같다. 부전공이 디자인이기도 하고 꽤 괜찮은거같다.
